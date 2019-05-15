@@ -48,7 +48,7 @@ wget -O /usr/bin/sprov-ui -N --no-check-certificate https://blog.sprov.xyz/sprov
 
 ```
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/sprov065/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/yimshing/sprov-ui/blob/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 
