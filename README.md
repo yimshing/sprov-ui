@@ -44,11 +44,11 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 
 >请务必使用 root 用户运行！
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://blog.sprov.xyz/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
-
-```
-```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/yimshing/sprov-ui/blob/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+宝塔远程下载release文件
+cd 到目录
+给install.sh和sprov-ui.sh 777权限
+运行install.sh
+再运行sprov-ui.sh启动面板 设置开机启动
 
 ```
 
